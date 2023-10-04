@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Websites**
 
-- 📝 I regularly write articles on [webdevelopersamrat.lovestoblog.com](webdevelopersamrat.lovestoblog.com)
+- 📝 I regularly write articles on [webdevelopersamrat.lovestoblog.com](https://webdevelopersamrat.lovestoblog.com/)
 
 - 💬 Ask me about **websites**
 
